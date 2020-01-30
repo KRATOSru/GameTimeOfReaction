@@ -2,4 +2,6 @@
     width: 150px;
     height: 150px;
     background-color: green;
+    display: none;
+    position: relative;
 }
